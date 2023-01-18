@@ -13,6 +13,11 @@ public class GridObjectBehaviours : MonoBehaviour
 
     private void Awake()
     {
+        ChangeText();  
+    }
+
+    public void ChangeText()
+    {
         if (umiejetnosc != null)
         {
             if (!small)
@@ -23,8 +28,7 @@ public class GridObjectBehaviours : MonoBehaviour
             {
                 description.text = umiejetnosc.skillName;
             }
-        } 
-        
+        }
     }
 
 }

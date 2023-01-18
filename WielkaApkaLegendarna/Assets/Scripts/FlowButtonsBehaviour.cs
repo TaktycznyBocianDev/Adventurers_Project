@@ -12,8 +12,11 @@ public class FlowButtonsBehaviour : MonoBehaviour
     
     public void InitiateSequence()
     {
-        UmiejetnosciTemplate umiejetnosc = gridPart.GetComponentInParent<GridObjectBehaviours>().umiejetnosc;
+        UmiejetnosciTemplate umiejetnosc = GetComponentInParent<GridObjectBehaviours>().umiejetnosc;
         target.GetComponent<UmiejetnosciMechanicScript>().ReceiveOrDetailed(umiejetnosc, IsDelete);
+        GetComponentInParent<GridObjectBehaviours>().umiejetnosc = null;
+        gridPart.SetActive(false);
+
 
     }
 

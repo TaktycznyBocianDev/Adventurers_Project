@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed11b6162bf4834c8f6310c9458febf, type: 3}
+  m_Name: Charyzma - Zaawansowany
+  m_EditorClassIdentifier: 
+  ID: 2
+  skillName: Charyzma - Zaawansowany
+  description: "Przetestuj Um (-2), by doda\u0107 si\u0142 sojusznikom lub przerazi\u0107
+    wrog\xF3w: wszyscy otrzymuj\u0105 +1 lub -1 do wynik\xF3w test\xF3w do ko\u0144ca
+    sceny."

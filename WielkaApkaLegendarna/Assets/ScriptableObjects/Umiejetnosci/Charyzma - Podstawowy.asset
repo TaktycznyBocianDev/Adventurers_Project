@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ed11b6162bf4834c8f6310c9458febf, type: 3}
-  m_Name: DrugiTest
+  m_Name: Charyzma - Podstawowy
   m_EditorClassIdentifier: 
-  ID: 2
-  skillName: Drugi Test
-  description: arbgzidfgblijr
+  ID: 1
+  skillName: Charyzma - Podstawowy
+  description: "Przewaga w testach socjalnych (zastraszanie, perswazja, targowanie
+    si\u0119), w tym przy odwracaniu uwagi (Um)."
