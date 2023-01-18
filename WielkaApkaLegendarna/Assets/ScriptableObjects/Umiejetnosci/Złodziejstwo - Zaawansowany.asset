@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ed11b6162bf4834c8f6310c9458febf, type: 3}
-  m_Name: "S\u0142ugaRelikt - Zaawansowany"
+  m_Name: "Z\u0142odziejstwo - Zaawansowany"
   m_EditorClassIdentifier: 
-  ID: 4
-  skillName: "S\u0142uga/Relikt - Zaawansowany"
-  description: "Twoi poplecznicy s\u0105 mocniejsi (zyskuj\u0105c 12 PD), liczniejsi
-    (oddzia\u0142 s\u0142ug \u2013 2 punkty Wsp\xF3\u0142czynnik\xF3w, w liczbie
-    2x tw\xF3j Um), lub relikt staje si\u0119 pot\u0119\u017Cniejszy."
+  ID: 30
+  skillName: "Z\u0142odziejstwo - Zaawansowany"
+  description: "+2 Ataku i podw\xF3jne Rany przeciwko niespodziewaj\u0105cym si\u0119
+    przeciwnikom."

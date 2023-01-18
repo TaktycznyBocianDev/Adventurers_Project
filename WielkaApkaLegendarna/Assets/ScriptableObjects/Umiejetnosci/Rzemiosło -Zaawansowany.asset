@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2ed11b6162bf4834c8f6310c9458febf, type: 3}
-  m_Name: "S\u0142ugaRelikt - Zaawansowany"
+  m_Name: "Rzemios\u0142o -Zaawansowany"
   m_EditorClassIdentifier: 
-  ID: 4
-  skillName: "S\u0142uga/Relikt - Zaawansowany"
-  description: "Twoi poplecznicy s\u0105 mocniejsi (zyskuj\u0105c 12 PD), liczniejsi
-    (oddzia\u0142 s\u0142ug \u2013 2 punkty Wsp\xF3\u0142czynnik\xF3w, w liczbie
-    2x tw\xF3j Um), lub relikt staje si\u0119 pot\u0119\u017Cniejszy."
+  ID: 22
+  skillName: "Rzemios\u0142o -Zaawansowany"
+  description: "Z:Mi\u0119dzy przygodami tworzysz przedmioty o warto\u015Bci 10 monet.
+    Mo\u017Cesz te\u017C wyda\u0107 2 Her, by stworzy\u0107 pomniejszy relikt, zapewniaj\u0105cy
+    na sta\u0142e premi\u0119 +1 do test\xF3w zwi\u0105zanych z konkretnym zadaniem."
