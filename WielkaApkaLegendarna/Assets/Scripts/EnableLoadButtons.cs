@@ -17,8 +17,9 @@ public class EnableLoadButtons : MonoBehaviour
 
         for (int i = 0; i < jsonFiles.Length; i++)
         {
-            charactersGrid[i].GetComponentInChildren<TMP_Text>().text = Path.GetFileName(jsonFiles[i]);
+            charactersGrid[i].GetComponentInChildren<TMP_Text>().text = Path.GetFileNameWithoutExtension(jsonFiles[i]);
             charactersGrid[i].gameObject.SetActive(true);
+
         }
 
         //foreach (string jsonFile in jsonFiles)

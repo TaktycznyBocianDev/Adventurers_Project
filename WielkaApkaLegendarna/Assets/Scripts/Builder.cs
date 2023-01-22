@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-public class Reader : MonoBehaviour
+public class Builder : MonoBehaviour
 {
     public TMP_InputField imie;
     public TMP_InputField koncept;
@@ -41,6 +41,23 @@ public class Reader : MonoBehaviour
                 );
 
         return character;
+    }
 
+    public void BuildCharacter(Character character)
+    {
+        imie.text = character.imie;
+        koncept.text = character.koncepcja;
+        sila.text = character.sila;
+        zrecznosc.text = character.zrecznosc;
+        umysl.text = character.umysl;
+        wyt.text = character.wytrzymalosc;
+        her.text = character.heroizm;
+        atak.text = character.atak;
+        obrona.text = character.obrona;
+        um.text = character.skills;
+        sprzet.text = character.eq;
+        notatki.text = character.notes;
+        historia.text = character.story;
+        pD.text = character.PD;
     }
 }

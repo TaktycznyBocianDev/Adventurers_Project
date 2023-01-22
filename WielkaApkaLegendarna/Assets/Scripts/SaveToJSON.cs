@@ -5,12 +5,12 @@ using UnityEngine;
 
 public class SaveToJSON : MonoBehaviour
 {
-    [SerializeField] Reader reader;
+    [SerializeField] Builder builder;
 
     public void SaveToFile()
     {
 
-        Save(reader.ReadCharacter());
+        Save(builder.ReadCharacter());
     }
 
     public void Save(Character character)
