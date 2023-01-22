@@ -5,6 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public Scene MainMenu, KartyPostaci, RzutKoscmi;
-    public bool 
+    public void OpenKartePostaci()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void OpenMainMenu()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void OpenRzuty()
+    {
+        SceneManager.LoadScene(2);
+    }
+
 }
