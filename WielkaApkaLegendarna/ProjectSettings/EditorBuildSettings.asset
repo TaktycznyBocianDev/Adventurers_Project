@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/KartaPostaci.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
-  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: e780428fe528e9e47a9dcf9fb551916c
+  - enabled: 1
+    path: Assets/Scenes/KartaPostaci.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
     path: Assets/Scenes/RzutKoscia.unity
     guid: 2e4dcd172027205478dbfd6b6b139b53
