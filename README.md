@@ -37,8 +37,8 @@ public class SaveToJSON : MonoBehaviour
         {
             Directory.CreateDirectory(Application.dataPath + "/Characters");
         }
-        //Następnie sprawdzane są kolejne trzy opcje - czy istnieje taki plik? I czy
-        //użytkownik chce nadpisać postać?
+        //The next three options are checked - does such a file exist? And does the
+        //user wants to overwrite the character?
     }
 }
 ```
