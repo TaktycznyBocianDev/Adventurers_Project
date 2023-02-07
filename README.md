@@ -1,4 +1,4 @@
-
+*(For polish version/Polska wersja językowa:* https://github.com/TaktycznyBocianDev/Adventurers_Project/blob/main/README_PL.md)
 ## Adventurers! Manager Postaci
 
 The application provides support for players as a character card manager and a handy dice throwing system according to game mechanics. It allows the user to save and modify created characters. It was developed as a college project. Furthermore, it aims to lower the entry threshold into the world of RPG games for my friends.
