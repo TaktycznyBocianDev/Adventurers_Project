@@ -1,7 +1,7 @@
 *(For Polish version/Polska wersja językowa:* https://github.com/TaktycznyBocianDev/Adventurers_Project/blob/main/README_PL.md)
 ## Adventurers! Manager Postaci
 
-The application provides support for players as a character card manager and a handy dice throwing system according to game mechanics. It allows the user to save and modify created characters. It was developed as a college project. Furthermore, it aims to lower the entry threshold into the world of RPG games for my friends.
+The application provides support for players as a character card manager and a handy dice throwing system according to game mechanics. It allows the user to save and modify created heroes. It was developed as a college project. Furthermore, it aims to lower the entry threshold into the world of RPG games for my friends.
 
 
 ## Gained Experience:
@@ -81,7 +81,7 @@ First, we enter the value of the coefficient to be tested. Later we enter the di
 
 
 When the throw button is pressed, a random number generator is activated, the result is displayed and given to the player along with showing whether he has won.
-In addition, there is an option to mark an advantage or disadvantage - you then roll three dice and choose from them two, respectively better or worse.
+In addition, there is an option to mark an advantage or disadvantage - you then roll three dice and choose from them two, respectively those better or worse.
 
 
 ![App Screenshot](https://github.com/TaktycznyBocianDev/Adventurers_Project/blob/main/ScreensForReadme/Screen8_50.jpg?raw=true)
@@ -95,7 +95,7 @@ Adventurers are *"Simple. Comprehensive, easy-to-learn rules that give a lot of 
 This is a system that guarantees great freedom, as it can be adapted to any world in which the game's action is to take place. Fantasy with dwarves? A dark RPG in an insane asylum? A world overrun by toaster-delphins? In each of them, the solutions proposed by the system will work.
 
 
-At the same time, their explanation is 4–5 minutes with a coffee break. There are three coefficients: Strength, Dexterity, Mind. If your character encounters any difficulty, to see if it has coped - roll two six-sided dice and add a coefficient. Is it more than 7? Congratulations. Less? Well, let's see how hard you flopped....
+At the same time, their explanation is 4–5 minutes with a coffee break. There are three coefficients: Strength, Dexterity, Mind. If your character encounters any difficulty, to see if it has coped - roll two six-sided dice and add a coefficient. Is it more than 7? Congratulations. Less? Well, let's see how hard you fail....
 
 
 
